@@ -1,6 +1,7 @@
 {
     "config_version": 20210101,
+    "app_id": "tasktracker-jbggi",
     "name": "tasktracker",
-    "location": "US-VA",
+    "location": "DE-FF",
     "deployment_model": "GLOBAL"
 }
